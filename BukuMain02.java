@@ -18,7 +18,7 @@ public class BukuMain02 {
         bk2.tampilanInformasi();
         
         Buku02 bukuAdityaYuhandaPutra = new Buku02(
-            "Sesuatu di Jogja","Mahendra",56,12,50000);
+        "Sesuatu di Jogja","Mahendra",56,12,50000);
 
     }
 }
